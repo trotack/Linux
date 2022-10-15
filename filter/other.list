@@ -7,3 +7,5 @@ DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,msftconnecttest.com
 DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-KEYWORD,jsdelivr
+IP-CIDR,8.8.8.8/32
+IP-CIDR,8.8.4.4/32
