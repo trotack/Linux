@@ -1,2 +1,3 @@
 #自定义规则，需美国节点
 DOMAIN-SUFFIX,maying.club
+IP-CIDR,38.64.72.148/32
