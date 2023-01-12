@@ -1,5 +1,6 @@
 #自定义规则，需美国节点
 DOMAIN-SUFFIX,maying.club
+DOMAIN-SUFFIX,mrxn.net
 
 # IPTV直播
 DOMAIN-SUFFIX,epg.pm
