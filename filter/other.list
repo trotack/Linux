@@ -9,8 +9,10 @@ DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,ip-api.com
 DOMAIN-SUFFIX,IPInfo.io
 DOMAIN-SUFFIX,keeflys.com
+DOMAIN-KEYWORD,jsdelivr
+DOMAIN-SUFFIX,getbitzapp.com
+#星视界
 DOMAIN-SUFFIX,histar.tv
 DOMAIN-SUFFIX,ulivetv.net
 DOMAIN-SUFFIX,ceres9350.com
 DOMAIN-SUFFIX,efhie.com
-DOMAIN-KEYWORD,jsdelivr
