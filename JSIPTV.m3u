@@ -11,7 +11,7 @@ rtp://239.49.8.64:8000
 rtp://239.49.0.114:8000
 #EXTINF:-1 tvg-name="茶" tvg-logo="https://live.fanmingming.com/tv/茶.png" group-title="数字",茶HD
 rtp://239.49.0.146:8000
-#EXTINF:-1 tvg-name="梨园" tvg-logo="https://live.fanmingming.com/tv/梨园.png" group-title="数字",梨园HD
+#EXTINF:-1 tvg-name="河南梨园" tvg-logo="https://live.fanmingming.com/tv/河南梨园.png" group-title="数字",河南梨园HD
 rtp://239.49.8.193:8000
 #EXTINF:-1 tvg-name="武术世界" tvg-logo="https://live.fanmingming.com/tv/武术世界.png" group-title="数字",武术世界HD
 rtp://239.49.0.205:8000
@@ -111,8 +111,6 @@ rtp://239.49.8.35:8620
 rtp://239.49.8.20:9618
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视HD
 rtp://239.49.8.57:9830
-#EXTINF:-1 tvg-name="环球购物" tvg-logo="https://live.fanmingming.com/tv/环球购物.png" group-title="数字",环球购物HD
-rtp://239.49.8.123:8000
 #EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://live.fanmingming.com/tv/辽宁卫视.png" group-title="卫视",辽宁卫视HD
 rtp://239.49.8.48:8000
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视",海南卫视HD
@@ -197,7 +195,7 @@ rtp://239.49.1.31:8000
 rtp://239.49.0.39:8000
 #EXTINF:-1 tvg-name="CCTV" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV4K
 rtp://239.49.0.82:8000
-#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.com/tv/CGTN西班牙语.png" group-title="数字",CGTN西班牙语HD
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="数字",CGTN西班牙语HD
 rtp://239.49.1.30:8000
 #EXTINF:-1 tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="数字",优购物HD
 rtp://239.49.0.85:8000
