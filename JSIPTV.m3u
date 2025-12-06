@@ -101,7 +101,7 @@ rtp://239.49.8.119:8000
 rtp://239.49.8.120:8000
 #EXTINF:-1 tvg-name="好享购物" tvg-logo="https://live.fanmingming.com/tv/好享购物.png" group-title="数字",好享购物HD
 rtp://239.49.8.121:8000
-#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.fanmingming.com/tv/江苏教育.png" group-title="江苏",江苏教育HD
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.fanmingming.com/tv/江苏教育电视台.png" group-title="江苏",江苏教育HD
 rtp://239.49.8.122:8000
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://live.fanmingming.com/tv/广西卫视.png" group-title="卫视",广西卫视HD
 rtp://239.49.8.10:8000
