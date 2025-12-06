@@ -97,7 +97,7 @@ rtp://239.49.8.117:8000
 rtp://239.49.8.118:8000
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="数字",优漫卡通HD
 rtp://239.49.8.119:8000
-#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏公告新闻.png" group-title="江苏",江苏公告新闻HD
+#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏公共新闻.png" group-title="江苏",江苏公共新闻HD
 rtp://239.49.8.120:8000
 #EXTINF:-1 tvg-name="好享购物" tvg-logo="https://live.fanmingming.com/tv/好享购物.png" group-title="数字",好享购物HD
 rtp://239.49.8.121:8000
