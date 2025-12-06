@@ -19,7 +19,7 @@ rtp://239.49.0.205:8000
 rtp://239.49.0.209:8000
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="江苏",江苏卫视4K
 rtp://239.49.1.61:8000
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视R.png" group-title="江苏",江苏卫视4K
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://live.fanmingming.com/tv/江苏卫视.png" group-title="江苏",江苏卫视4K
 rtp://239.49.1.62:8000
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视",北京卫视4K
 rtp://239.49.0.42:8000
@@ -91,13 +91,13 @@ rtp://239.49.8.16:9602
 rtp://239.49.8.107:8000
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.com/tv/江苏综艺.png" group-title="江苏",江苏综艺HD
 rtp://239.49.8.108:8000
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.fanmingming.com/tv/江苏体育休闲.png" group-title="江苏",江苏体育休闲HD
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="江苏",江苏休闲体育HD
 rtp://239.49.8.117:8000
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="江苏",江苏影视HD
 rtp://239.49.8.118:8000
 #EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://live.fanmingming.com/tv/优漫卡通.png" group-title="数字",优漫卡通HD
 rtp://239.49.8.119:8000
-#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏新闻.png" group-title="江苏",江苏新闻HD
+#EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏公告新闻.png" group-title="江苏",江苏公告新闻HD
 rtp://239.49.8.120:8000
 #EXTINF:-1 tvg-name="好享购物" tvg-logo="https://live.fanmingming.com/tv/好享购物.png" group-title="数字",好享购物HD
 rtp://239.49.8.121:8000
