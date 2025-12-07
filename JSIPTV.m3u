@@ -199,5 +199,3 @@ rtp://239.49.0.82:8000
 rtp://239.49.1.30:8000
 #EXTINF:-1 tvg-name="优购物" tvg-logo="https://live.fanmingming.com/tv/优购物.png" group-title="数字",优购物HD
 rtp://239.49.0.85:8000
-#EXTINF:-1 tvg-name="跨年直播" tvg-logo="https://live.fanmingming.com/tv/跨年直播2.png" group-title="4K",4K跨年直播
-rtp://239.49.8.82:8000
