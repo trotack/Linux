@@ -15,6 +15,8 @@ DOMAIN-SUFFIX,imdb.com
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,tiar.app
 DOMAIN-KEYWORD,jsdelivr
+HOST,live.fanmingming.com
+HOST,epg.51zmt.top
 #星视界
 DOMAIN-SUFFIX,histar.tv
 DOMAIN-SUFFIX,ulivetv.net
