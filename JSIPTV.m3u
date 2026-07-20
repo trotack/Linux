@@ -1,14 +1,14 @@
 #EXTM3U x-tvg-url="https://epg.zsdc.eu.org/t.xml.gz"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1HD
-rtp://239.49.8.19:9614/?fcc=180.100.72.185:15970
+rtp://239.49.8.19:9614/?fcc=180.100.106.54:554
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2HD
-rtp://239.49.8.50:9802/?fcc=180.100.72.185:15970
+rtp://239.49.8.50:9802/?fcc=180.100.106.54:554
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视",CCTV3HD
-rtp://239.49.8.74:8000/?fcc=180.100.72.185:15970
+rtp://239.49.8.74:8000/?fcc=180.100.106.54:554
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV4HD
-rtp://239.49.8.51:9806/?fcc=180.100.72.185:15970
+rtp://239.49.8.51:9806/?fcc=180.100.106.54:554
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV5HD
-rtp://239.49.8.75:8000/?fcc=180.100.72.185:15970
+rtp://239.49.8.75:8000/?fcc=180.100.106.54:554
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV5+HD
 rtp://239.49.8.18:9610/?fcc=180.100.72.185:15970
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV6HD
