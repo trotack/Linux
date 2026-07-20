@@ -227,7 +227,7 @@ http://172.16.1.254:4022/rtp/239.49.8.119:8000
 http://172.16.1.254:4022/rtp/239.49.8.107:8000
 #EXTINF:-1 tvg-name="江苏国际" tvg-logo="https://live.fanmingming.com/tv/江苏国际.png" group-title="数字",江苏国际HD
 http://172.16.1.254:4022/rtp/239.49.1.81:8000
-#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.fanmingming.com/tv/江苏教育电视台.png" group-title="江苏",江苏教育电视台HD
+#EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.fanmingming.com/tv/江苏教育电视台.png" group-title="江苏",江苏教育HD
 http://172.16.1.254:4022/rtp/239.49.8.122:8000
 #EXTINF:-1 tvg-name="江苏影视" tvg-logo="https://live.fanmingming.com/tv/江苏影视.png" group-title="江苏",江苏影视HD
 http://172.16.1.254:4022/rtp/239.49.8.118:8000
@@ -235,7 +235,7 @@ http://172.16.1.254:4022/rtp/239.49.8.118:8000
 http://172.16.1.254:4022/rtp/239.49.8.108:8000
 #EXTINF:-1 tvg-name="江苏新闻" tvg-logo="https://live.fanmingming.com/tv/江苏公共新闻.png" group-title="江苏",江苏公共新闻HD
 http://172.16.1.254:4022/rtp/239.49.8.120:8000
-#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="江苏",江苏体育休闲HD
+#EXTINF:-1 tvg-name="江苏体育休闲" tvg-logo="https://live.fanmingming.com/tv/江苏休闲体育.png" group-title="江苏",江苏休闲体育HD
 http://172.16.1.254:4022/rtp/239.49.8.117:8000
 #EXTINF:-1 tvg-name="山东教育卫视" tvg-logo="https://live.fanmingming.com/tv/山东教育.png" group-title="卫视",山东教育HD
 http://172.16.1.254:4022/rtp/239.49.0.252:8000
