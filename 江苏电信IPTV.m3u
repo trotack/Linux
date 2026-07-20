@@ -57,12 +57,6 @@ rtp://239.49.8.31:8000
 rtp://239.49.8.52:9810
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV17HD
 rtp://239.49.8.132:6000
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="数字",CGTN西语HD
-rtp://239.49.1.30:8000
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="数字",CGTN法语HD
-rtp://239.49.1.31:8000
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="数字",CGTN俄语HD
-rtp://239.49.0.111:8000
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV4K
 rtp://239.49.0.82:8000
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://live.fanmingming.com/tv/重庆卫视.png" group-title="卫视",重庆卫视HD
@@ -199,6 +193,12 @@ rtp://239.49.1.60:8000
 rtp://239.49.1.55:8000
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视",兵团卫视HD
 rtp://239.49.1.58:8000
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="数字",CGTN西语HD
+rtp://239.49.1.30:8000
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="数字",CGTN法语HD
+rtp://239.49.1.31:8000
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="数字",CGTN俄语HD
+rtp://239.49.0.111:8000
 #EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://live.fanmingming.com/tv/卡酷少儿.png" group-title="数字",卡酷少儿HD
 rtp://239.49.0.148:8000
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="数字",CETV1HD
